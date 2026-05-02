@@ -1,0 +1,31 @@
+# Logs
+*.log
+logs/
+
+# Temporary files
+*.tmp
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Environment
+.env
+secrets.env
+
+# Output files
+*.mp4
+*.mkv
+*.avi
+*.webm
+*.mov
+*.mp3
+*.wav
+*.gif
+!docs/**/*.gif
+
+# Working dirs
+work/logs/
